@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DonaldGjoka
 - 👀 I’m interested in furthering my programming skills
 - 🌱 I’m currently learning the fundamentals of programming with C++
-- Hoping to slowly populate this git with naet things I've made.
+- Hoping to slowly populate this git with neat things I've made.
 
 
 <!---
