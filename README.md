@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DonaldGjoka
 - 👨‍💻 Currently furthering my programming skills
 - 🌱 Learning the fundamentals of programming with C++
-- 🌩 Tackling the Web Development Foundations Course on The Odin Project
+- 🌩 Tackling the Web Development Foundations Course on https://www.TheOdinProject.com/
 - 💻 Hoping to slowly populate this git with neat things I've made
 
 
