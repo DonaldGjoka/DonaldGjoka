@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @DonaldGjoka
+- 🏫 Working on a Computer Engineering Degree
 - 👨‍💻 Currently furthering my programming skills
 - 🌱 Learning the fundamentals of programming with C++
 - 🌩 Tackling the Web Development Foundations Course on https://www.TheOdinProject.com/
