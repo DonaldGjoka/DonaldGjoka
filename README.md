@@ -2,7 +2,7 @@
 - 🏫 Working on a Computer Engineering Degree
 - 👨‍💻 Currently furthering my programming skills
 - 🌱 Learning the fundamentals of programming with C++
-- - 💻 Hoping to slowly populate this git with neat things I've made
+-  💻 Hoping to slowly populate this git with neat things I've made
 - 🌩 Tackling the Web Development Foundations Course on https://www.TheOdinProject.com/
 
 
