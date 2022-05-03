@@ -2,8 +2,9 @@
 <h3>📓 What I'm doing! 🖥️</h3>
 
 > - 🏫 Working on a Computer Engineering Degree
+>>> - Attending Tallahasee Community College then transferring to Florida State University 
 > - 👨‍💻 Currently furthering my programming skills
-> - 🌱 Learning the fundamentals of programming with C++
+> - 🌱 Practicing programming with C++
 > -  💻 Hoping to slowly populate this git with neat things I've made
 > - 🌩 Tackling the Web Development Foundations Course on https://www.TheOdinProject.com/
 
