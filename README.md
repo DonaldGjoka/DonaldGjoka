@@ -1,5 +1,5 @@
 <h1>👋 Hi, I’m @DonaldGjoka </h1>
-<h3>📓 To-Do List! 🖥️</h3>
+<h3>📓 What I'm doing! 🖥️</h3>
 
 > - 🏫 Working on a Computer Engineering Degree
 > - 👨‍💻 Currently furthering my programming skills
