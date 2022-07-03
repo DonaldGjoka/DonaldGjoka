@@ -21,7 +21,7 @@
 <h3 align="center">📷 Hobbies! 🎨</h3>
 
 > <ul > 
-> <li> 📷 Photography: You can see my work on my <a href="https://www.instagram.com/dongjoka/">Instagram</a>! You can see stuff I shot on DSLR and on my drone (Part-107 Certified)! At the moment, I don't post often due to focusing on my studies but I will resume after I am done.  </li>
+> <li> 📷 Photography: You can see my work on my <a href="https://www.instagram.com/dongjoka/">Instagram</a>! I shoot on DSLR and on my drone (Part-107 Certified)! At the moment, I don't post often due to focusing on my studies but I will resume after I am done.  </li>
 > <li>🕹️ Video Games 👾</li>
 > <li> 🖉 Creating Pixel Art 🎨</li>
 > <li> 🎨 Drawing & Painting 🖌️</li>
