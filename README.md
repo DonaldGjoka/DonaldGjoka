@@ -28,6 +28,7 @@
 > </ul>
 
 
+
 <!---
 
 
@@ -36,6 +37,10 @@ You can click the Preview link to take a look at your changes.
 
 
 https://rahuldkjain.github.io/gh-profile-readme-generator/
+
+Visitor Counter Code:
+
+{![Visitor Count](https://profile-counter.glitch.me/{DonaldGjoka}/count.svg)}
 
 --->
 
