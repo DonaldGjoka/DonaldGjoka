@@ -17,7 +17,7 @@
 > </ul>
 
 <br><hr>
----
+
 <h3 align="center">📷 Hobbies! 🎨</h3>
 
 > <ul > 
