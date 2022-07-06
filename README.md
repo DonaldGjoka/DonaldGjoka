@@ -3,7 +3,7 @@
     <img src="Assets/GitHubMonitor (500).webp" alt="Pixel-Art Animation of a Computer Booting up then shutting down.">
 
 
-<h1 align="center" >👋 Hi, I’m @DonaldGjoka </h1>
+<h1 align="center" >👋 Hi, I’m <a href="https://donaldgjoka.github.io/">@DonaldGjoka</a> </h1>
 <h3 align="center" >📓 What I'm doing! 🖥️</h3>
 
 
@@ -13,7 +13,7 @@
 >  <li> 👨‍💻 Currently furthering my programming skills</li>
 >  <li>🌱 Practicing programming with C++</li>
 >  <li>💻 Hoping to slowly populate this git with neat things I've made</li>
->  <li>🌩 Tackling the Web Development Foundations Course on https://www.TheOdinProject.com/</li>
+>  <li>🌩 Tackling the Web Development Foundations Course on <a href="https://www.TheOdinProject.com/">The Odin Project!</a>! </li>
 > </ul>
 
 <br><hr>
