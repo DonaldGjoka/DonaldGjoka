@@ -1,9 +1,9 @@
 <h6 align="center" >Pixel-Art Animation by Donald Gjoka</h6>
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="Assets/GitHubMonitor (500)LightMode.webp">
-  <source media="(prefers-color-scheme: light)" srcset="Assets/GitHubMonitor (500).webp">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="Assets/GitHubMonitor (500)LightMode.webp">
+  <source media="(prefers-color-scheme: dark)" srcset="Assets/GitHubMonitor(500).webp">
+  <source media="(prefers-color-scheme: light)" srcset="Assets/GitHubMonitor(500)LightMode.webp">
+  <img alt="Pixel-Art Animation of a Computer Booting up then shutting down." src="Assets/GitHubMonitor(500)LightMode.webp">
 </picture>
 
 
