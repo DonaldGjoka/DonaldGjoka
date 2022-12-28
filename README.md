@@ -16,7 +16,7 @@
 
 <!--- Horrible mix of markdown and HTML lol | Will redo at some point later. --->
 > <ul >
->  <li> 🏫 Working on a Computer Engineering Degree</li>
+>  <li> 🏫 Working on a Computer-Science Degree</li>
 >  <li> 👨‍💻 Currently furthering my programming skills</li>
 >  <li>🌱 Practicing programming with C++</li>
 >  <li>💻 Hoping to slowly populate this git with neat things I've made</li>
