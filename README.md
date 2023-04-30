@@ -18,7 +18,7 @@
 > <ul >
 >  <li> 🏫 Working on a Computer-Science Degree</li>
 >  <li> 👨‍💻 Currently furthering my programming skills</li>
->  <li>🌱 Practicing programming with C++</li>
+>  <li>🌱 Learning OOP with Java ☕</li>
 >  <li>💻 Hoping to slowly populate this git with neat things I've made</li>
 >  <li>🌩 Tackling the Web Development Foundations Course on <a href="https://www.TheOdinProject.com/">The Odin Project!</a>! </li>
 > </ul>
