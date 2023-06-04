@@ -12,8 +12,9 @@
 
 <!--- Horrible mix of markdown and HTML lol | Will redo at some point later. --->
 > <ul >
->  <li> 🏫 Working on a Computer-Science Degree</li>
->  <li> 👨‍💻 Currently furthering my programming skills</li>
+>  <li>🏫 A student at Florida State University</li>
+>  <li>🎓 Working on a Computer-Science Degree</li>
+>  <li>👨‍💻 Currently furthering my programming skills</li>
 >  <li>🌱 Learning OOP with C++ </li>
 >  <li>💻 Hoping to slowly populate this git with neat things I've made</li>
 >  <li>🌩 Tackling the Web Development Foundations Course on <a href="https://www.TheOdinProject.com/">The Odin Project!</a>! </li>
@@ -33,6 +34,7 @@
 
 
 <!---
+
 
 
 DonaldGjoka/DonaldGjoka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
