@@ -2,7 +2,7 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="Assets/GitHubMonitor(500).webp">
-  <source media="(prefers-color-scheme: dark)" srcset="Assets/GitHubMonitor(500)LightMode.webp">
+  <!--- <source media="(prefers-color-scheme: dark)" srcset="Assets/GitHubMonitor(500)LightMode.webp"> --->
   <img alt="Pixel-Art Animation of a Computer Booting up then shutting down." src="Assets/GitHubMonitor(500)LightMode.webp">
 </picture>
 
