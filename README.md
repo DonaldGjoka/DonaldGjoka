@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="Assets/GitHubMonitor(500).webp">
   <source media="(prefers-color-scheme: light)" srcset="Assets/LightModeGitHubMonitor(500).webp">
-  <img alt="Pixel-Art Animation of a Computer Booting up then shutting down." src="Assets/LightModeGitHubMonitor(500).webp">
+  <img alt="Pixel-Art Animation of a Computer Booting up then shutting down." src="Assets/GitHubMonitor(500).webp">
 </picture>
 
 <h1 align="center" >👋 Hi, I’m <a href="https://donaldgjoka.github.io/">@DonaldGjoka</a> </h1>
