@@ -17,7 +17,6 @@
 >  <li>👨‍💻 Currently furthering my programming skills</li>
 >  <li>🌱 Learning OOP with C++ </li>
 >  <li>💻 Hoping to slowly populate this git with neat things I've made</li>
->  <li>🌩 Tackling the Web Development Foundations Course on <a href="https://www.TheOdinProject.com/">The Odin Project!</a>! </li>
 > </ul>
 
 <br><hr>
@@ -46,6 +45,8 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 Visitor Counter Code:
 
 {![Visitor Count](https://profile-counter.glitch.me/{DonaldGjoka}/count.svg)}
+
+>  <li>🌩 Tackling the Web Development Foundations Course on <a href="https://www.TheOdinProject.com/">The Odin Project!</a>! </li>
 
 --->
 
