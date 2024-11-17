@@ -24,7 +24,7 @@
 <h3 align="center">📷 Hobbies! 🎨</h3>
 
 > <ul > 
-> <li> 📷 Photography: You can see my work on my <a href="https://www.instagram.com/dongjoka/">Instagram</a>! I shoot with a Canon 5D Mark II and drone (Mavic Mini 2/ Mavic Zoom). I am Part-107 Certified! Currently, I don't post often due to focusing on my studies but I will resume after I am done.</li>
+> <li> 📷 Photography: You can see my work on my <a href="https://www.instagram.com/dongjoka/">Instagram</a>! I shoot with a Canon EOS R6 (used to use a Canon 5D Mark II) and drone (Mavic Mini 2/ Mavic Zoom). I am Part-107 Certified! Currently, I don't post often due to focusing on my studies but I will resume after I am done.</li>
 > <li>🕹️ Video Games 👾</li>
 > <li> ✏️ Creating Pixel Art 🎨</li>
 > <li> 🎨 Drawing & Painting 🖌️</li>
